@@ -7,8 +7,8 @@ FST ?= -fst # Use more efficient FST format
 TOPLEVEL_LANG ?= verilog
 SRC_DIR = $(PWD)/../src
 PROJECT_SOURCES = project.v
-PROJECT_SOURCES = hvsync_generator.v
-PROJECT_SOURCES = font_rom.v
+PROJECT_SOURCES += hvsync_generator.v
+PROJECT_SOURCES += font_rom.v
 
 ifneq ($(GATES),yes)
 
