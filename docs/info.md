@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Envia caracteres
+Envia caracteres a 3 lineas
 
 ## How to test
 
